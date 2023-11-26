@@ -3,6 +3,6 @@ version: '3'
 services:
   app:
     build: .
-    image: jihyeonpark5/hw06
+    image: jihyeonpark5/hw07
     ports:
     - "8000:8000"
